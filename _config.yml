@@ -1,11 +1,11 @@
 # Site settings
-author: Josiah  Partridge
-title: 
+author: Josiah Partridge
+title: Software Craftsmanship 
 header-img: img/home-bg.png
 email: jpartridj94@gmail.com
-copyright_name: Josiah  Partridge
+copyright_name: Josiah Partridge
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A software developer's journey in perfecting his craft
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ProfessorPartridge
